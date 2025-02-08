@@ -10,13 +10,14 @@
 
 <h3 align="left">Skills & Experience:</h3>
 <p align="left">Here are a few areas where I excel:</p>
+
 <ul>
-  <li>📱 **Building responsive UI** for Android and iOS using Flutter</li>
-  <li>🎯 **Dart programming** for writing clean and efficient code</li>
-  <li>🔗 **REST API Integration** for seamless back-end connections</li>
-  <li>🛠 **State Management** with Provider, BLoC, Cubit</li>
-  <li>🧩 **Firebase integration** (authentication, Firestore, push notifications)</li>
-  <li>💡 **Continuous Learning**: Always staying up-to-date with the latest trends</li>
+  <li>📱 <b>Building responsive UI</b> for Android and iOS using Flutter</li>
+  <li>🎯 <b>Dart programming</b> for writing clean and efficient code</li>
+  <li>🔗 <b>REST API Integration</b> for seamless back-end connections</li>
+  <li>🛠 <b>State Management</b> with Provider, BLoC, Cubit</li>
+  <li>🧩 <b>Firebase integration</b> (authentication, Firestore, push notifications)</li>
+  <li>💡 <b>Continuous Learning</b>: Always staying up-to-date with the latest trends</li>
 </ul>
 
 <h3 align="left">Projects:</h3>
@@ -75,4 +76,4 @@
 
 - 💬 Ask me about **Flutter & Dart**
 - 📫 How to reach me: **naderemad961516@gmail.com**
-- 📄 Check out my Resume (CV) [here](https://drive.google.com/file/d/19f9mp5ihvoLlFPzoGTzop8CJb6g6ex4m/view?usp=sharing)
+- 📄 Check out my Resume (CV) [here](https://drive.google.com/file/d/1qwiA_97DnXkotfjwTV5TShJb4pB-ZXmn/view?usp=share_link)
